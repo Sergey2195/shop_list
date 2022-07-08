@@ -62,5 +62,6 @@ object ShopListRepositoryImpl:ShopListRepository {
         listShops.add(ShopItem("Sugar", 4, false))
         listShops.add(ShopItem("Pork", 1, true))
         listShops.add(ShopItem("Beef", 2, true))
+        listShops.add(ShopItem("Android", 1, true))
     }
 }
